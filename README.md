@@ -5,7 +5,7 @@ Interaktivt kort over mindetavler i København og på Frederiksberg, bygget ud f
 - `index.html` – kortet (Leaflet). Åbnes direkte i en browser.
 - `mindetavler-kbh.kml` – de samme punkter til Google My Maps, Google Earth, Organic Maps m.fl.
 
-Seneste dataudtræk: **16. november 2026** – 290 tavler på 268 steder.
+Seneste dataudtræk: **16. november 2026** – 291 tavler på 269 steder.
 
 ## Kilde
 
@@ -22,7 +22,7 @@ Listen er oprindeligt udarbejdet af Bjørn Westerbeek Dahl og vedligeholdes af b
 | Indre By A–L | `indre-l` | 70 |
 | Indre By M–Å | `indre-m` | 68 |
 | Kongens Enghave | `kongens-enghave` | 1 |
-| Nørrebro | `norrebro` | 11 |
+| Nørrebro | `norrebro` | 12 |
 | Sundby | `sundby` | 1 |
 | Valby | `valby` | 5 |
 | Vanløse | `vanlose` | 2 |
@@ -30,7 +30,7 @@ Listen er oprindeligt udarbejdet af Bjørn Westerbeek Dahl og vedligeholdes af b
 | Vesterbro | `vesterbro` | 25 |
 | Østerbro | `osterbro` | 39 |
 
-Kilden har ingen koordinater, kort eller billeder – kun adresse og tavlens tekst/baggrund. Koordinaterne her er geokodet fra adresserne (se nedenfor). Beskrivelserne i `data/tavler.txt` er korte sammenfatninger, ikke tavlernes ordlyd.
+Kilden har ingen koordinater, kort eller billeder – kun adresse og tavlens tekst/baggrund. Koordinaterne her er geokodet fra adresserne (se nedenfor). Beskrivelserne i `data/tavler.txt` er korte sammenfatninger; tavlens ordlyd står i en særskilt kolonne, når kilden gengiver den (208 af 291 tavler 16/11 2026).
 
 ## Filer
 
@@ -45,18 +45,19 @@ mindetavler-kbh.kml  genereret
 
 ### data/tavler.txt
 
-`sted-id|bydel|adresse|beskrivelse`
+`sted-id|bydel|adresse|beskrivelse|ordlyd`
 
 - `sted-id` peger på en linje i `coords.txt`. Flere tavler på samme sted deler id og vises i samme markør.
 - Linjerne står grupperet efter bydel; rækkefølgen bestemmer rækkefølgen i listen på kortet. Hold en bydels linjer samlet.
-- Bydelsnavnet skal findes i `SLUG`-tabellen i `template.html` (bruges til linket tilbage til bibliotekets side). "Indre By" fordeles automatisk på `indre-l`/`indre-m` efter adressens første bogstav (A–L / resten).
-- Tegnet `|` må ikke forekomme i adresse eller beskrivelse.
+- `ordlyd` er tavlens tekst, som kilden gengiver den (i anførselstegn på bibliotekets side), uden de omgivende anførselstegn. ` / ` er linjeskift på tavlen, `///` (eller `//`) er afsnit eller en ny tavle/plade. Tom, hvis kilden ikke gengiver teksten – kolonnens `|` skal stadig være der. Ordlyden vises i kortets infoboks under beskrivelsen og indgår i søgningen.
+- Infoboksen linker kun til bibliotekets oversigtsside, ikke til den enkelte bydelsside.
+- Tegnet `|` må ikke forekomme i adresse, beskrivelse eller ordlyd.
 
 ### data/coords.txt
 
 `sted-id|breddegrad,længdegrad` – med `|~` til sidst, hvis placeringen er omtrentlig (vises med svagere farve og teksten "Placering omtrentlig").
 
-Id'erne er vilkårlige heltal; nye steder får blot det næste ledige nummer (aktuelt 268).
+Id'erne er vilkårlige heltal; nye steder får blot det næste ledige nummer (aktuelt 269).
 
 ### Farver
 
@@ -73,7 +74,7 @@ Kræver kun Python 3. Scriptet udskriver antal tavler/steder og advarer om koord
 ## Opdatering fra kilden
 
 1. Hent de 14 bydelssider **én ad gangen** – siden rate-limiter, hvis flere hentes samtidig. Bed om en komplet liste: adresse (inkl. bygningsnavn) og hvem/hvad tavlen mindes med årstal. Lange sider (Indre By, Østerbro) kan blive afkortet; tjek at listen når til slutningen af alfabetet, og hent igen ved tvivl.
-2. Sammenlign med `data/tavler.txt` pr. bydel (antallet i tabellen ovenfor er et hurtigt første tjek): tilføj nye tavler, fjern dem, biblioteket har fjernet, og ret ændrede adresser/tekster.
+2. Sammenlign med `data/tavler.txt` pr. bydel (antallet i tabellen ovenfor er et hurtigt første tjek): tilføj nye tavler, fjern dem, biblioteket har fjernet, og ret ændrede adresser/tekster. Ordlyden tages fra det eller de afsnit i anførselstegn, der følger lige efter tavlens indledende beskrivelse; senere citater i samme opslag er typisk baggrundslitteratur og skal ikke med. Enkelte opslag har ordlyden uden anførselstegn eller efter "Tekst på tavlen:".
 3. Nye adresser geokodes og tilføjes i `data/coords.txt` med nyt id. Eksisterende steder genbruger deres id.
 4. Kør `python3 build.py`, opdatér datoen og tallene i denne README, commit.
 

@@ -20,14 +20,15 @@ for line in open(W + 'data/tavler.txt', encoding='utf-8'):
     line = line.rstrip('\n')
     if not line:
         continue
-    i, d, a, t = line.split('|')
+    i, d, a, t, o = line.split('|')
     i = int(i)
     n += 1
     if i not in locs:
         lat, lon, approx = coords[i]
-        locs[i] = {'d': d, 'a': a, 'lat': lat, 'lon': lon, 'x': 1 if approx else 0, 't': []}
+        locs[i] = {'d': d, 'a': a, 'lat': lat, 'lon': lon, 'x': 1 if approx else 0, 't': [], 'o': []}
         order.append(i)
     locs[i]['t'].append(t if a == locs[i]['a'] else a + ': ' + t)
+    locs[i]['o'].append(o)
 
 WAR = re.compile(r'besættelse|modstand|dræbt|faldt|faldet|frihedsk|Gestapo|Shellhuset|henrettet|skudt|194[0-5]', re.I)
 data = []
@@ -55,7 +56,7 @@ for L in data:
             k.append('</Folder>')
         cur = L['d']
         k.append('<Folder><name>%s</name>' % escape(cur))
-    desc = '<br>'.join(escape(t) for t in L['t'])
+    desc = '<br><br>'.join(escape(t) + ('<br><i>' + escape(o) + '</i>' if o else '') for t, o in zip(L['t'], L['o']))
     if L['x']:
         desc += '<br><i>Placering omtrentlig</i>'
     k.append('<Placemark><name>%s</name><description><![CDATA[%s]]></description><Point><coordinates>%s,%s</coordinates></Point></Placemark>'
