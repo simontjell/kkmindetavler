@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<name>Mindetavler i København</name>
+<description>Kilde: Københavns Biblioteker, bibliotek.kk.dk/din/bag-om-kobenhavn/mindetavler</description>
+<Folder><name>Bispebjerg</name>
+<Placemark><name>Bispebjerg Hospital</name><description><![CDATA[Erik Hagens (reservelæge, faldt 1944) og Julius Grundfør (præst, faldt 1945)<br>Tavle fra Beth Israel Medical Center, New York, for hospitalets rolle i redningen af de danske jøder, oktober 1943<br><i>Placering omtrentlig</i>]]></description><Point><coordinates>12.54018,55.71456</coordinates></Point></Placemark>
+<Placemark><name>Frederiksborgvej 107, Bispebjerg Skole</name><description><![CDATA[Bendt Werge Christensen (1926–1945) og Kaj Holger Schiøth (1921–1944), dræbt under besættelsen]]></description><Point><coordinates>12.53181,55.7106</coordinates></Point></Placemark>
+<Placemark><name>Frederikssundsvej 26 B</name><description><![CDATA[Skuespilleren Carl Schenstrøm, "Fyrtårnet" (1881–1942)]]></description><Point><coordinates>12.53413,55.70184</coordinates></Point></Placemark>
+<Placemark><name>Hyrdevangen 62, Efterslægtselskabets Skole</name><description><![CDATA[35 elever og efterslægtere dræbt under besættelsen]]></description><Point><coordinates>12.51298,55.70955</coordinates></Point></Placemark>
+<Placemark><name>Lygten 39–41</name><description><![CDATA[Mejeriet Enighedens 50-års jubilæum 1897–1947]]></description><Point><coordinates>12.5377,55.70461</coordinates></Point></Placemark>
+<Placemark><name>Peter Rørdams Vej 26</name><description><![CDATA[Skuespilleren Johannes Ring (1863–1936), afsløret 1933]]></description><Point><coordinates>12.53546,55.71695</coordinates></Point></Placemark>
+<Placemark><name>Rørsangervej 29, Grøndalsvængets Skole</name><description><![CDATA[Modstandsmanden Ib Mogens Bech Christensen, dræbt under besættelsen]]></description><Point><coordinates>12.52697,55.69869</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>Brønshøj-Husum</name>
+<Placemark><name>Enigheds Allé 21</name><description><![CDATA[Statsminister Thorvald Stauning (1873–1942), boede her 1900–1902]]></description><Point><coordinates>12.50354,55.70625</coordinates></Point></Placemark>
+<Placemark><name>Karlslundevej 23, Husum Skole</name><description><![CDATA[Per Egon Flodin (1926–1945) og Aage Julius Nielsen (1918–1943)]]></description><Point><coordinates>12.47376,55.70609</coordinates></Point></Placemark>
+<Placemark><name>Liselundvej 2, Brønshøj Skole</name><description><![CDATA[Modstandsmanden Kurt Gunner Jensen (1921–1945)<br><i>Placering omtrentlig</i>]]></description><Point><coordinates>12.49549,55.70397</coordinates></Point></Placemark>
+<Placemark><name>Svenskelejren 18, Bellahøj Skole</name><description><![CDATA[Modstandsmanden Steen Simonsen (1924–1945)]]></description><Point><coordinates>12.50845,55.70439</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>Christianshavn</name>
+<Placemark><name>Brobergsgade 11</name><description><![CDATA[Brandmand Erik Ekman (1922–1945), dræbt 5.5.1945]]></description><Point><coordinates>12.59772,55.67505</coordinates></Point></Placemark>
+<Placemark><name>Bådsmandsstræde, Prinsesse Maries Stiftelse</name><description><![CDATA[Bygningens renovering, afsløret 2001 af kronprins Frederik<br>Peter Funk (1823–1901), Sømandsforeningens grundlægger<br><i>Placering omtrentlig</i>]]></description><Point><coordinates>12.59574,55.67349</coordinates></Point></Placemark>
+<Placemark><name>Christianshavns Vold, Elefantens Bastion</name><description><![CDATA[Christian Holm (1867–1939) og volden, opstillet 1943<br><i>Placering omtrentlig</i>]]></description><Point><coordinates>12.59369,55.66936</coordinates></Point></Placemark>
+<Placemark><name>Holmen</name><description><![CDATA[Brandfolk omkommet ved eksplosionen 1951<br><i>Placering omtrentlig</i>]]></description><Point><coordinates>12.60506,55.68148</coordinates></Point></Placemark>
+<Placemark><name>Overgaden oven Vandet 48E</name><description><![CDATA[Peter Norden Sølling (1758–1827), Bombebøssens stifter]]></description><Point><coordinates>12.59348,55.67372</coordinates></Point></Placemark>
+<Placemark><name>Overgaden oven Vandet 56</name><description><![CDATA[Aksel Hugo Reimer Madsen (1923–1945), faldt 5.5.1945]]></description><Point><coordinates>12.5941,55.6741</coordinates></Point></Placemark>
+<Placemark><name>Overgaden oven Vandet 60, Orlogsmuseets foyer</name><description><![CDATA[Viceadmiral A.H. Vedel (1894–1981), chef for Søværnet]]></description><Point><coordinates>12.59538,55.67429</coordinates></Point></Placemark>
+<Placemark><name>Overgaden oven Vandet 60C</name><description><![CDATA[J.L. Heiberg og Johanne Luise Heiberg, boede her 1845–1860]]></description><Point><coordinates>12.59538,55.67429</coordinates></Point></Placemark>
+<Placemark><name>Overgaden oven Vandet 62, Søværnets Elevskole</name><description><![CDATA[Elevskolen for Søværnet, til huse her 1867–1932]]></description><Point><coordinates>12.59518,55.67474</coordinates></Point></Placemark>
+<Placemark><name>Prinsessegade 35, Christianshavns Gymnasium</name><description><![CDATA[Seks modstandsfolk dræbt under besættelsen 1944–1945]]></description><Point><coordinates>12.59545,55.67324</coordinates></Point></Placemark>
+<Placemark><name>Prinsessegade 52</name><description><![CDATA[N.F.S. Grundtvig (1783–1872), boede her 1824–1827]]></description><Point><coordinates>12.59475,55.67253</coordinates></Point></Placemark>
+<Placemark><name>Prinsessegade 53</name><description><![CDATA[Willy Trosborg (1914–1945), dræbt 5.5.1945<br><i>Placering omtrentlig</i>]]></description><Point><coordinates>12.59452,55.67243</coordinates></Point></Placemark>
+<Placemark><name>Sankt Annæ Gade 33</name><description><![CDATA[Martin Andersen Nexø, født 1869, boede her 1869–1872]]></description><Point><coordinates>12.59484,55.6722</coordinates></Point></Placemark>
+<Placemark><name>Sankt Annæ Gade 34</name><description><![CDATA[Oprettelsen af Den kongelige Veterinærskole 13.7.1773]]></description><Point><coordinates>12.59367,55.67255</coordinates></Point></Placemark>
+<Placemark><name>Sofiegade 17</name><description><![CDATA[Filantropen Marie Kofod (1760–1838), finansierede bygningen]]></description><Point><coordinates>12.59135,55.67083</coordinates></Point></Placemark>
+<Placemark><name>Strandgade 4A</name><description><![CDATA[Burmeister &amp; Wains 100-års jubilæum 1843–1943<br>Fire B&amp;W-arbejdere omkommet under besættelsen 1940–1945]]></description><Point><coordinates>12.58796,55.6726</coordinates></Point></Placemark>
+<Placemark><name>Strandgade 4B</name><description><![CDATA[N.F.S. Grundtvig (1783–1872), boede her 1829–1840]]></description><Point><coordinates>12.58814,55.67282</coordinates></Point></Placemark>
+<Placemark><name>Strandgade 6</name><description><![CDATA[Peder Wessel Tordenskjold (1690–1720), boede her]]></description><Point><coordinates>12.58837,55.67296</coordinates></Point></Placemark>
+<Placemark><name>Strandgade 25</name><description><![CDATA[Frits Johan Blichfeldt Møller og Hans Jørgen Henry Christiansen, dræbt 1944]]></description><Point><coordinates>12.59037,55.67528</coordinates></Point></Placemark>
+<Placemark><name>Strandgade 30</name><description><![CDATA[Bygningshistorie: opført ca. 1636, porten indrettet 1710]]></description><Point><coordinates>12.59033,55.67419</coordinates></Point></Placemark>
+<Placemark><name>Strandgade 102</name><description><![CDATA[Polarforskeren Eigil Knuth (1903–1996), Arktisk Institut]]></description><Point><coordinates>12.59717,55.67724</coordinates></Point></Placemark>
+<Placemark><name>Torvegade</name><description><![CDATA[Christian 4.s Amagerport, opført 1625, nedrevet 1857<br><i>Placering omtrentlig</i>]]></description><Point><coordinates>12.59248,55.67184</coordinates></Point></Placemark>
+<Placemark><name>Wildersgade 53</name><description><![CDATA[Thomas Overskou (1798–1873), boede her som barn]]></description><Point><coordinates>12.59192,55.67442</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>Frederiksberg</name>
+<Placemark><name>Bülowsvej 13, Landbohøjskolen</name><description><![CDATA[Dyrlæger, landinspektør og landbrugskandidat dræbt 1941–1945]]></description><Point><coordinates>12.54253,55.67932</coordinates></Point></Placemark>
+<Placemark><name>C.F. Richs Vej 138</name><description><![CDATA[Stud.jur. Kai Ole Hammerich (1924–1944), dræbt på stedet 1944]]></description><Point><coordinates>12.50432,55.68774</coordinates></Point></Placemark>
+<Placemark><name>Dalgas Boulevard 81</name><description><![CDATA[Filminstruktøren Carl Th. Dreyer (1881–1968), boede her]]></description><Point><coordinates>12.51014,55.68097</coordinates></Point></Placemark>
+<Placemark><name>Duevej 63, Duevejens Skole</name><description><![CDATA[Fem frihedskæmpere dræbt under besættelsen 1944–1945]]></description><Point><coordinates>12.52791,55.69118</coordinates></Point></Placemark>
+<Placemark><name>Emil Chr. Hansens Vej 6, La Courvejens Skole</name><description><![CDATA[Fire modstandsfolk dræbt under besættelsen 1944–1945<br><i>Placering omtrentlig</i>]]></description><Point><coordinates>12.5184,55.68504</coordinates></Point></Placemark>
+<Placemark><name>Falkoner Allé 72</name><description><![CDATA[Bernhard Ruben (1829–1896) og enken Ida Ruben (1845–1913)]]></description><Point><coordinates>12.53797,55.68445</coordinates></Point></Placemark>
+<Placemark><name>Filippavej 2, Sankt Jørgens Gymnasium</name><description><![CDATA[Syv modstandsfolk dræbt under besættelsen 1943–1945]]></description><Point><coordinates>12.55528,55.67874</coordinates></Point></Placemark>
+<Placemark><name>Forchhammersvej 4/6</name><description><![CDATA[Skolebestyrer Otto Fick (1859–1932), opførte bygningen som skole]]></description><Point><coordinates>12.55388,55.6795</coordinates></Point></Placemark>
+<Placemark><name>Forchhammersvej 7</name><description><![CDATA[Robert Jensen (1900–1944) og Svend Tronbjerg (1916–1944), dræbt 1944]]></description><Point><coordinates>12.55363,55.67933</coordinates></Point></Placemark>
+<Placemark><name>Frederiksberg Slot, Hærens Officersskole</name><description><![CDATA[17 dræbte under besættelsen 1940–1945<br>Roskildevej, Frederiksberg Slot: Erik Bennike (1918–1945) og Carl Julius Valdemar Berg (1893–1945)]]></description><Point><coordinates>12.52478,55.67184</coordinates></Point></Placemark>
+<Placemark><name>Fuglevangsvej 5, Fuglevangsvejens Skole</name><description><![CDATA[Tre modstandsfolk dræbt under besættelsen 1944–1945]]></description><Point><coordinates>12.54673,55.68271</coordinates></Point></Placemark>
+<Placemark><name>Hollændervej 3, tidl. Frederiksberg Gymnasium</name><description><![CDATA[Fem modstandsfolk dræbt under besættelsen 1944–1945]]></description><Point><coordinates>12.53757,55.67588</coordinates></Point></Placemark>
+<Placemark><name>Howitzvej 26–28</name><description><![CDATA[Tre frederiksbergske brandmænd, døde 1945 under redningsarbejde]]></description><Point><coordinates>12.52996,55.67993</coordinates></Point></Placemark>
+<Placemark><name>Howitzvej 30, Frederiksberg Politistation</name><description><![CDATA[Ni frederiksbergske politifolk dræbt under besættelsen 1940–1945]]></description><Point><coordinates>12.52931,55.67985</coordinates></Point></Placemark>
+<Placemark><name>Julius Thomsens Gade 5, Det Tekniske Selskabs Skoler</name><description><![CDATA[Syv modstandsfolk dræbt under besættelsen 1944–1945]]></description><Point><coordinates>12.55459,55.68308</coordinates></Point></Placemark>
+<Placemark><name>Julius Thomsens Gade 6, Købmandsskolen</name><description><![CDATA[Tretten modstandsfolk dræbt under besættelsen 1944–1945<br><i>Placering omtrentlig</i>]]></description><Point><coordinates>12.55538,55.68362</coordinates></Point></Placemark>
+<Placemark><name>Julius Thomsens Plads 10, Handelshøjskolen</name><description><![CDATA[Mogens Ejlskov Hansen (1920–1945), dræbt under besættelsen]]></description><Point><coordinates>12.55418,55.6813</coordinates></Point></Placemark>
+<Placemark><name>Landbohøjskolen, Fødeklinikken</name><description><![CDATA[Veterinærprofessor Gerhard Sand (1861–1921)<br><i>Placering omtrentlig</i>]]></description><Point><coordinates>12.5421,55.6796</coordinates></Point></Placemark>
+<Placemark><name>Peter Bangs Vej 61</name><description><![CDATA[Stumfilmskuespilleren Asta Nielsen (1881–1972), boede her]]></description><Point><coordinates>12.50839,55.67867</coordinates></Point></Placemark>
+<Placemark><name>P.G. Ramms Allé, Lindevangskolen</name><description><![CDATA[Tre modstandsfolk dræbt under besættelsen 1944–1945<br><i>Placering omtrentlig</i>]]></description><Point><coordinates>12.51082,55.6795</coordinates></Point></Placemark>
+<Placemark><name>Pile Allé 10–12, Hansens gamle Familiehave</name><description><![CDATA[Modstandsfolks tilhold under besættelsen 1940–1945<br>Robert Storm Petersen og hans hund Grok, afsløret 1998]]></description><Point><coordinates>12.53147,55.67263</coordinates></Point></Placemark>
+<Placemark><name>Rahbeks Allé 23, Bakkehuset</name><description><![CDATA[N.F.S. Grundtvig, skrev her i oktober 1845]]></description><Point><coordinates>12.53205,55.66844</coordinates></Point></Placemark>
+<Placemark><name>Smallegade 45</name><description><![CDATA[Direktør Philip Schou (1838–1922)]]></description><Point><coordinates>12.52404,55.6794</coordinates></Point></Placemark>
+<Placemark><name>Yrsavej, Frederiksberg Svømmehal</name><description><![CDATA[Modstandskvinden Elisabeth Grunnet (1896–1944)]]></description><Point><coordinates>12.53228,55.68462</coordinates></Point></Placemark>
+<Placemark><name>Zoologisk Have, ved Det lille Rovdyrhus</name><description><![CDATA[Waldemar Dreyer (1853–1924) og Alfred Christensen (1854–1943)<br>Zoologisk Have, ved Elefanthuset: Søren Gulmann (1850–1924), havens fodermester i 50 år<br><i>Placering omtrentlig</i>]]></description><Point><coordinates>12.52097,55.67294</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>Indre By</name>
+<Placemark><name>Amagertorv 6, Matthias Hansens Gård</name><description><![CDATA[Opført 1616 for borgmester Matthias Hansen, fornyet 1852]]></description><Point><coordinates>12.57904,55.67895</coordinates></Point></Placemark>
+<Placemark><name>Amagertorv 9</name><description><![CDATA[Digteren Holger Drachmann, født her 1846]]></description><Point><coordinates>12.57855,55.67866</coordinates></Point></Placemark>
+<Placemark><name>Amagertorv 17</name><description><![CDATA[Bygningshistorie fra 1350 og senere ejere]]></description><Point><coordinates>12.57793,55.67861</coordinates></Point></Placemark>
+<Placemark><name>Amagertorv 29, Brødrene Petersens Jomfrukloster</name><description><![CDATA[Jomfrukloster oprettet 1758, grundsten lagt 1768]]></description><Point><coordinates>12.57684,55.67856</coordinates></Point></Placemark>
+<Placemark><name>Amaliegade 9</name><description><![CDATA[H.C. Andersens 50-års fødselsdag hos familien Collin 1855]]></description><Point><coordinates>12.59154,55.68277</coordinates></Point></Placemark>
+<Placemark><name>Amaliegade 22</name><description><![CDATA[Adam Oehlenschläger, død i ejendommen 1850]]></description><Point><coordinates>12.59417,55.68486</coordinates></Point></Placemark>
+<Placemark><name>Amaliegade 44</name><description><![CDATA[Søløjtnant Gregers Bojesen, faldt 1945]]></description><Point><coordinates>12.59586,55.68691</coordinates></Point></Placemark>
+<Placemark><name>Amalienborg Slotsplads</name><description><![CDATA[Arvid Georg Andersen og Paul Møllgaard, dræbt 1945<br><i>Placering omtrentlig</i>]]></description><Point><coordinates>12.59275,55.68345</coordinates></Point></Placemark>
+<Placemark><name>Antonigade 13</name><description><![CDATA[Kommunal præmie for smukkeste forretningsejendom 1910<br><i>Placering omtrentlig</i>]]></description><Point><coordinates>12.58142,55.68051</coordinates></Point></Placemark>
+<Placemark><name>August Bournonvilles Passage 1</name><description><![CDATA[Modstandsmanden Jørgen Arboe-Rasmussen, faldt 1945]]></description><Point><coordinates>12.58681,55.6796</coordinates></Point></Placemark>
+<Placemark><name>Axeltorv 1</name><description><![CDATA[BOPA-lederen Børge Thing, anholdt af Gestapo 1944]]></description><Point><coordinates>12.56446,55.67539</coordinates></Point></Placemark>
+<Placemark><name>Badstuestræde 17</name><description><![CDATA[Sprogforskeren Rasmus Rask, død i ejendommen 1832]]></description><Point><coordinates>12.57609,55.67769</coordinates></Point></Placemark>
+<Placemark><name>Borgergade 2</name><description><![CDATA[Komponisten Niels W. Gade, født i Borgergade 17 i 1817]]></description><Point><coordinates>12.58429,55.68225</coordinates></Point></Placemark>
+<Placemark><name>Bredgade 25E, Sankt Annæ Passage</name><description><![CDATA[Bygningskomplekset opført 1916–1918]]></description><Point><coordinates>12.58757,55.68237</coordinates></Point></Placemark>
+<Placemark><name>Bredgade 70</name><description><![CDATA[Søren Kierkegaard, død i bygningen 1855]]></description><Point><coordinates>12.59254,55.68682</coordinates></Point></Placemark>
+<Placemark><name>Brolæggerstræde 5</name><description><![CDATA[J.C. og Carl Jacobsen, første ølforsøg 1838]]></description><Point><coordinates>12.57501,55.6777</coordinates></Point></Placemark>
+<Placemark><name>Brolæggerstræde 7</name><description><![CDATA[Brygger J.C. Jacobsen, Carlsbergs grundlægger, født 1811<br><i>Placering omtrentlig</i>]]></description><Point><coordinates>12.5746,55.6775</coordinates></Point></Placemark>
+<Placemark><name>Brolæggerstræde 11</name><description><![CDATA[De samvirkende Fagforbund (LO), første domicil 1898–1900]]></description><Point><coordinates>12.57444,55.67743</coordinates></Point></Placemark>
+<Placemark><name>Esplanaden 6</name><description><![CDATA[Gardehusarkaserne fra 1785, kommandantbolig 1844–1898]]></description><Point><coordinates>12.59094,55.68728</coordinates></Point></Placemark>
+<Placemark><name>Esplanaden 34, baggården</name><description><![CDATA[Johanne Petersen, forstander for Vanføres Hjem 1874–1922]]></description><Point><coordinates>12.59414,55.68735</coordinates></Point></Placemark>
+<Placemark><name>Farvergade 27</name><description><![CDATA[Seks medlemmer af Københavns Vagtværn dræbt 1940–1945]]></description><Point><coordinates>12.57181,55.67557</coordinates></Point></Placemark>
+<Placemark><name>Fiolstræde 8</name><description><![CDATA[Ludvig Holberg, embedsbolig som professor 1740–1754]]></description><Point><coordinates>12.57345,55.68008</coordinates></Point></Placemark>
+<Placemark><name>Fredericiagade 33</name><description><![CDATA[Digteren Emil Aarestrup, født her 1800]]></description><Point><coordinates>12.58949,55.68597</coordinates></Point></Placemark>
+<Placemark><name>Fredericiagade 39</name><description><![CDATA[Peter Wessel Fyhn og Finn Wolfgang Relmé, dræbt 1945]]></description><Point><coordinates>12.58838,55.68626</coordinates></Point></Placemark>
+<Placemark><name>Frederiksborggade 1, baggården</name><description><![CDATA[Julius M. Goldschmidt, 100-året for hans fødsel, 1928]]></description><Point><coordinates>12.57338,55.68278</coordinates></Point></Placemark>
+<Placemark><name>Frederiksgade</name><description><![CDATA[Nicolai Eigtved (1701–1754), arkitekten bag Frederiksstaden<br><i>Placering omtrentlig</i>]]></description><Point><coordinates>12.58909,55.68512</coordinates></Point></Placemark>
+<Placemark><name>Frederiksholms Kanal 12, Nationalmuseet</name><description><![CDATA[J.J.A. Worsaae (1821–1885)<br>Rasmus Nyerup (1759–1829), Nationalmuseets grundlægger]]></description><Point><coordinates>12.57602,55.67502</coordinates></Point></Placemark>
+<Placemark><name>Frederiksholms Kanal 28B</name><description><![CDATA[Billedhuggerne H.W. og Vilhelm Bissen, atelier 1842–1913]]></description><Point><coordinates>12.57822,55.67323</coordinates></Point></Placemark>
+<Placemark><name>Frue Plads, Universitetets port A</name><description><![CDATA[25 studerende dræbt under besættelsen 1940–1945<br><i>Placering omtrentlig</i>]]></description><Point><coordinates>12.57262,55.67967</coordinates></Point></Placemark>
+<Placemark><name>Gammel Strand 40</name><description><![CDATA[Georg Carstensen, Tivolis grundlægger, boede her 1843]]></description><Point><coordinates>12.57839,55.67774</coordinates></Point></Placemark>
+<Placemark><name>Gammeltorv 16</name><description><![CDATA[Sprogforskeren Vilhelm Thomsen, født her 1842]]></description><Point><coordinates>12.57163,55.67828</coordinates></Point></Placemark>
+<Placemark><name>Gothersgade 53, tidl. Sporvejenes ejendom</name><description><![CDATA[Syv modstandsfolk dræbt 1944–1945]]></description><Point><coordinates>12.5794,55.68292</coordinates></Point></Placemark>
+<Placemark><name>Gothersgade 115</name><description><![CDATA[KFUM's spejderarbejde begyndte her 28.9.1910]]></description><Point><coordinates>12.57447,55.68421</coordinates></Point></Placemark>
+<Placemark><name>Gothersgade 148</name><description><![CDATA[Sognepræst Julius Steen, Sankt Andreas Kirke 1901–1932]]></description><Point><coordinates>12.56855,55.68604</coordinates></Point></Placemark>
+<Placemark><name>Grønnegården</name><description><![CDATA[Erik Crone og Jørgen Ejvind Schacht, dræbt 1944–1945<br><i>Placering omtrentlig</i>]]></description><Point><coordinates>12.59279,55.68657</coordinates></Point></Placemark>
+<Placemark><name>Gråbrødretorv</name><description><![CDATA[Corfitz Ulfeldts skamstøtte, opstillet 1664, fjernet 1842<br><i>Placering omtrentlig</i>]]></description><Point><coordinates>12.57585,55.67986</coordinates></Point></Placemark>
+<Placemark><name>Gråbrødretorv 1</name><description><![CDATA[Ildebrandssten efter Københavns brand 1728, dateret 1732]]></description><Point><coordinates>12.57645,55.6799</coordinates></Point></Placemark>
+<Placemark><name>Gråbrødretorv 3</name><description><![CDATA[Digteren Johan Herman Wessel, skrev sin komedie her 1772]]></description><Point><coordinates>12.5764,55.67985</coordinates></Point></Placemark>
+<Placemark><name>H.C. Andersens Boulevard 6</name><description><![CDATA[Sønderjyllands genforening med Danmark 1920<br>Studenterforeningen, havde hus her 1910–1972<br>Studentersangforeningen 1839–1939]]></description><Point><coordinates>12.56555,55.67748</coordinates></Point></Placemark>
+<Placemark><name>H.C. Andersens Boulevard 23, Hovedbrandstationen</name><description><![CDATA[Brandmænd omkommet under besættelsen og ved Holmen-katastrofen 1951]]></description><Point><coordinates>12.57132,55.6744</coordinates></Point></Placemark>
+<Placemark><name>Holbergsgade 3</name><description><![CDATA[Centralkomitéen for Finlandshjælpen, hovedsæde 1940–1949]]></description><Point><coordinates>12.58723,55.67794</coordinates></Point></Placemark>
+<Placemark><name>Holmens Kanal 9</name><description><![CDATA[Studenterforeningen, lokaler på grunden 1863–1910]]></description><Point><coordinates>12.58649,55.67796</coordinates></Point></Placemark>
+<Placemark><name>Hyskenstræde 6</name><description><![CDATA[Komponisten H.C. Lumbye, født her 1810]]></description><Point><coordinates>12.57628,55.67831</coordinates></Point></Placemark>
+<Placemark><name>Kampmannsgade 2, Shellhuset</name><description><![CDATA[Dræbte ved bombardementet af Shellhuset 1945<br>Ni Royal Air Force-folk omkommet ved bombardementet 1945]]></description><Point><coordinates>12.56207,55.67776</coordinates></Point></Placemark>
+<Placemark><name>Kastellet, Hærkommandoen</name><description><![CDATA[Modstandsmanden Roar Ploug, dræbt 1944<br>Kastellet, Stjernestok 2: General Olaf Rye, Fredericia 1849<br>Kastellet, Stjernestok 2: General Max Müller, Sankelmark 1864<br><i>Placering omtrentlig</i>]]></description><Point><coordinates>12.59374,55.69138</coordinates></Point></Placemark>
+<Placemark><name>Klareboderne 1</name><description><![CDATA[Niels Steensen, anatom og geolog, født her 1638]]></description><Point><coordinates>12.57791,55.68075</coordinates></Point></Placemark>
+<Placemark><name>Klareboderne 3</name><description><![CDATA[Søren Kierkegaard, elev i Borgerdydskolen 1821–1830]]></description><Point><coordinates>12.57819,55.68096</coordinates></Point></Placemark>
+<Placemark><name>Klerkegade 10</name><description><![CDATA[Kjædeordenen, 100 års indsats for blinde, 1911]]></description><Point><coordinates>12.5848,55.68665</coordinates></Point></Placemark>
+<Placemark><name>Kongens Nytorv 1</name><description><![CDATA[Modstandsmanden Ib Mogens Bech Christensen, dræbt under besættelsen]]></description><Point><coordinates>12.58706,55.68022</coordinates></Point></Placemark>
+<Placemark><name>Kronprinsessegade 36</name><description><![CDATA[Komponisten C.E.F. Weyse, boede her 1825–1842]]></description><Point><coordinates>12.58256,55.68462</coordinates></Point></Placemark>
+<Placemark><name>Krystalgade 6</name><description><![CDATA[Georg Brandes, skrev sine første forelæsninger her 1871]]></description><Point><coordinates>12.57445,55.68123</coordinates></Point></Placemark>
+<Placemark><name>Krystalgade 12</name><description><![CDATA[Dan Uzan, dræbt 15.2.2015 ved Det Jødiske Hus]]></description><Point><coordinates>12.57312,55.68126</coordinates></Point></Placemark>
+<Placemark><name>Kultorvet 13</name><description><![CDATA[Peter Abraham Bock, grundlagde spinderi 1805<br>Kultorvet 13, i porten: Guldsmed Palle Måge Skånstrøm, dræbt 1.8.1944]]></description><Point><coordinates>12.57361,55.68246</coordinates></Point></Placemark>
+<Placemark><name>Kvæsthusgade 1</name><description><![CDATA[A/S Em. Z. Svitzers Bjergnings-Entreprise, stiftet 1833]]></description><Point><coordinates>12.59319,55.6795</coordinates></Point></Placemark>
+<Placemark><name>Kvæsthusgade 3</name><description><![CDATA[Komponisten J.P.E. Hartmann, boede her 1829–1900]]></description><Point><coordinates>12.59323,55.67963</coordinates></Point></Placemark>
+<Placemark><name>Kvæsthusgade 5</name><description><![CDATA[Religiøs inskription fra 1691]]></description><Point><coordinates>12.5935,55.67988</coordinates></Point></Placemark>
+<Placemark><name>Købmagergade 26, i porten</name><description><![CDATA[Ludvig Holberg, skrev Peder Paars her, ca. 1720–1728]]></description><Point><coordinates>12.57908,55.68012</coordinates></Point></Placemark>
+<Placemark><name>Laksegade 26</name><description><![CDATA[Arkitekten Theophilus Hansen, født her 1813]]></description><Point><coordinates>12.5828,55.6777</coordinates></Point></Placemark>
+<Placemark><name>Landemærket 3</name><description><![CDATA[Opfinderen Valdemar Poulsen, født her 1869]]></description><Point><coordinates>12.57548,55.68162</coordinates></Point></Placemark>
+<Placemark><name>Larslejsstræde 1</name><description><![CDATA[Kaj Munk, boede her som student 1919–1921]]></description><Point><coordinates>12.56976,55.67949</coordinates></Point></Placemark>
+<Placemark><name>Lavendelstræde 1</name><description><![CDATA[Constanze Mozart, boede her 1812–1820]]></description><Point><coordinates>12.57219,55.67657</coordinates></Point></Placemark>
+<Placemark><name>Lille Kirkestræde 1</name><description><![CDATA[Louis Pio, talte herfra 1872 før Fælledmødet]]></description><Point><coordinates>12.58098,55.67847</coordinates></Point></Placemark>
+<Placemark><name>Lille Strandstræde 14</name><description><![CDATA[Bygningshistorie med ejere fra 1658]]></description><Point><coordinates>12.59034,55.68083</coordinates></Point></Placemark>
+<Placemark><name>Niels Hemmingsens Gade 6</name><description><![CDATA[Teologen Niels Hemmingsen (ca. 1511–1600)]]></description><Point><coordinates>12.57792,55.6791</coordinates></Point></Placemark>
+<Placemark><name>Nikolaj Plads 26</name><description><![CDATA[Gadenavnet Hvælvingen 1784–1876]]></description><Point><coordinates>12.58092,55.67867</coordinates></Point></Placemark>
+<Placemark><name>Ny Adelgade 10</name><description><![CDATA[Teatret i Lille Grønnegade, Holbergs skueplads 1722–1728]]></description><Point><coordinates>12.58374,55.68137</coordinates></Point></Placemark>
+<Placemark><name>Ny Kongensgade 15</name><description><![CDATA[Sophus Falck, stiftede Falcks Redningskorps 1906]]></description><Point><coordinates>12.57597,55.67352</coordinates></Point></Placemark>
+<Placemark><name>Ny Vestergade 11</name><description><![CDATA[Nobelpristageren August Krogh, boede her 1910–1928]]></description><Point><coordinates>12.57534,55.67426</coordinates></Point></Placemark>
+<Placemark><name>Ny Vestergade, Vigant Michelbeckers hus</name><description><![CDATA[Første offentlige reformerte gudstjeneste 1685<br><i>Placering omtrentlig</i>]]></description><Point><coordinates>12.57527,55.67435</coordinates></Point></Placemark>
+<Placemark><name>Nybrogade 4</name><description><![CDATA[Bygherren Hans Blasen, arbejdskarl, 1730]]></description><Point><coordinates>12.57694,55.67694</coordinates></Point></Placemark>
+<Placemark><name>Nyhavn 20</name><description><![CDATA[H.C. Andersen, første eventyrhæfte udkom 1835]]></description><Point><coordinates>12.5905,55.67953</coordinates></Point></Placemark>
+<Placemark><name>Nyhavn 23</name><description><![CDATA[Komponisten Frederik Kuhlau, boede her ved sin død 1832]]></description><Point><coordinates>12.58966,55.68038</coordinates></Point></Placemark>
+<Placemark><name>Nyhavn 67</name><description><![CDATA[H.C. Andersen, boede her 1845–1864]]></description><Point><coordinates>12.5929,55.67952</coordinates></Point></Placemark>
+<Placemark><name>Nyropsgade</name><description><![CDATA[Modstandsmanden Poul Erik Astrup (1917–1944)<br><i>Placering omtrentlig</i>]]></description><Point><coordinates>12.56097,55.67688</coordinates></Point></Placemark>
+<Placemark><name>Nytorv, midt på pladsen</name><description><![CDATA[Byens kag, stod her indtil 1780<br>Stadens 3. og 4. rådhus, opført ca. 1475<br><i>Placering omtrentlig</i>]]></description><Point><coordinates>12.57312,55.67749</coordinates></Point></Placemark>
+<Placemark><name>Nytorv 17</name><description><![CDATA[Kraks Vejviser, udgivet herfra 1770–1989<br>Huset opført 1795–96; digterne Henrik Hertz og Poul Martin Møller]]></description><Point><coordinates>12.57353,55.67714</coordinates></Point></Placemark>
+<Placemark><name>Nytorv 27</name><description><![CDATA[Søren Kierkegaard, boede på stedet 1813–1848]]></description><Point><coordinates>12.57266,55.67736</coordinates></Point></Placemark>
+<Placemark><name>Nørregade 1</name><description><![CDATA[Filosoffen Harald Høffding, født her 1843]]></description><Point><coordinates>12.57205,55.67859</coordinates></Point></Placemark>
+<Placemark><name>Nørregade 21</name><description><![CDATA[H.C. Ørsted, opdagede elektromagnetismen 1820<br>Nørregade 21, porten: Modstandsmanden Povl Markussen (1911–1944)]]></description><Point><coordinates>12.571,55.68046</coordinates></Point></Placemark>
+<Placemark><name>Peder Skrams Gade 5, porten</name><description><![CDATA[Den Internationale Kommission for Sønderjyllands genforening 1920]]></description><Point><coordinates>12.58855,55.67884</coordinates></Point></Placemark>
+<Placemark><name>Politigården, Polititorvet</name><description><![CDATA[Politimester og astronom Ole Rømer (1644–1710)<br>Folke Bernadotte (1895–1948), fangebefrielsen<br>157 politifolk dræbt under besættelsen 1940–1945<br>Fire politimænd dræbt i tjenesten]]></description><Point><coordinates>12.57245,55.67072</coordinates></Point></Placemark>
+<Placemark><name>Rosenborggade 7</name><description><![CDATA[Søren Kierkegaard, boede og skrev her 1848–1850]]></description><Point><coordinates>12.57404,55.68358</coordinates></Point></Placemark>
+<Placemark><name>Rosenborggade 15</name><description><![CDATA[Grundlæggelsen af KFUM-spejderarbejdet 1910]]></description><Point><coordinates>12.57438,55.68386</coordinates></Point></Placemark>
+<Placemark><name>Rosengården 5</name><description><![CDATA[Forfatterne Marie Bregendahl og Jeppe Aakjær 1896–1898]]></description><Point><coordinates>12.57311,55.68216</coordinates></Point></Placemark>
+<Placemark><name>Rosengården 9</name><description><![CDATA[Bladtegneren Chr. Klæstrup (1820–1882)]]></description><Point><coordinates>12.57275,55.68222</coordinates></Point></Placemark>
+<Placemark><name>Sankt Annæ Plads 13, porten</name><description><![CDATA[Niels R. Finsen, lysbehandling, boede her 1887–1888]]></description><Point><coordinates>12.59093,55.68193</coordinates></Point></Placemark>
+<Placemark><name>Sankt Peders Stræde 22</name><description><![CDATA[Den islandske digter Jónas Hallgrímsson, sidste bolig 1845]]></description><Point><coordinates>12.56823,55.67903</coordinates></Point></Placemark>
+<Placemark><name>Skindergade 44</name><description><![CDATA[Holger Danske-modstandsfolk, henrettet 1945]]></description><Point><coordinates>12.57252,55.67862</coordinates></Point></Placemark>
+<Placemark><name>Store Kannikestræde 10, porten</name><description><![CDATA[Admiral Ove Gjedde og Admiral Gjeddes Gård, 1637]]></description><Point><coordinates>12.57468,55.6806</coordinates></Point></Placemark>
+<Placemark><name>Store Kannikestræde 12, baggården</name><description><![CDATA[Professor Oluf Borch, Borchs Kollegium]]></description><Point><coordinates>12.57447,55.68048</coordinates></Point></Placemark>
+<Placemark><name>Store Kannikestræde 15</name><description><![CDATA[Forfatteren Peter Faber, boede her 1844–1849]]></description><Point><coordinates>12.57463,55.68038</coordinates></Point></Placemark>
+<Placemark><name>Store Kannikestræde 16</name><description><![CDATA[Ole Rømer, boede her til sin død 1710]]></description><Point><coordinates>12.57407,55.68024</coordinates></Point></Placemark>
+<Placemark><name>Store Kannikestræde 19</name><description><![CDATA[Ernst Henrich Berling, grundlagde Berlingske Bogtrykkeri 1733]]></description><Point><coordinates>12.57399,55.68001</coordinates></Point></Placemark>
+<Placemark><name>Store Kongensgade 40, porten</name><description><![CDATA[Olfert Fischer, Olaf Rye og Frederik Bülow, heltene fra 1801 og 1849]]></description><Point><coordinates>12.5867,55.68286</coordinates></Point></Placemark>
+<Placemark><name>Store Kongensgade 40C</name><description><![CDATA[Børge Outze, grundlagde dagbladet Information 1945]]></description><Point><coordinates>12.58774,55.68246</coordinates></Point></Placemark>
+<Placemark><name>Store Kongensgade 108</name><description><![CDATA[Det Kongelige Opfostringshus for fattige drengebørn, 1753]]></description><Point><coordinates>12.58999,55.68675</coordinates></Point></Placemark>
+<Placemark><name>Store Kongensgade 116</name><description><![CDATA[Gardehusarregimentets kaserne 1797–1898]]></description><Point><coordinates>12.59042,55.68753</coordinates></Point></Placemark>
+<Placemark><name>Stormgade</name><description><![CDATA[Svenske og hollandske soldater faldet under belejringen 1658–1660<br><i>Placering omtrentlig</i>]]></description><Point><coordinates>12.57501,55.67523</coordinates></Point></Placemark>
+<Placemark><name>Stormgade 10, Holsteins Palæ</name><description><![CDATA[Videnskabernes Selskabs første møde 1742]]></description><Point><coordinates>12.57432,55.67515</coordinates></Point></Placemark>
+<Placemark><name>Store Regnegade 28</name><description><![CDATA[Relief fra 1884 af den tidligere hjørnebygning mod Gothersgade]]></description><Point><coordinates>12.58273,55.68198</coordinates></Point></Placemark>
+<Placemark><name>Studiestræde, Bispegården</name><description><![CDATA[Bygningshistorie fra 1479 til 1898<br><i>Placering omtrentlig</i>]]></description><Point><coordinates>12.57167,55.67946</coordinates></Point></Placemark>
+<Placemark><name>Studiestræde 6</name><description><![CDATA[H.C. Ørsted, boede her som professor 1824–1851]]></description><Point><coordinates>12.57061,55.6791</coordinates></Point></Placemark>
+<Placemark><name>Studiestræde 8</name><description><![CDATA[Forfatteren Thomas Overskou (1798–1873), barndomshjem]]></description><Point><coordinates>12.57038,55.67902</coordinates></Point></Placemark>
+<Placemark><name>Studiestræde 48</name><description><![CDATA[Modstandsmanden Henry Glud (1924–1945)]]></description><Point><coordinates>12.56655,55.67766</coordinates></Point></Placemark>
+<Placemark><name>Sværtegade 7, Wessels Kro</name><description><![CDATA[Johan Herman Wessel og Det Norske Selskab 1774–1813]]></description><Point><coordinates>12.58074,55.68117</coordinates></Point></Placemark>
+<Placemark><name>Sølvgade 12</name><description><![CDATA[Det Kongelige Døvstummeinstitut 1807–1823]]></description><Point><coordinates>12.58348,55.68621</coordinates></Point></Placemark>
+<Placemark><name>Toldbodgade 26</name><description><![CDATA[Tidligere elever fra Skoleskibet Danmark]]></description><Point><coordinates>12.59371,55.68193</coordinates></Point></Placemark>
+<Placemark><name>Toldbodgade 45</name><description><![CDATA[Dansk politi i kampen om Amalienborg 19.9.1944]]></description><Point><coordinates>12.59431,55.68339</coordinates></Point></Placemark>
+<Placemark><name>Tordenskjoldsgade 17</name><description><![CDATA[H.C. Andersen, boede her 1870–1871]]></description><Point><coordinates>12.58763,55.67832</coordinates></Point></Placemark>
+<Placemark><name>Vandkunsten 10</name><description><![CDATA[Borgernes forsvar mod svenskernes stormangreb 1659]]></description><Point><coordinates>12.57376,55.6761</coordinates></Point></Placemark>
+<Placemark><name>Ved Stranden 14</name><description><![CDATA[Niels Bohr, født i huset 1885]]></description><Point><coordinates>12.58135,55.67749</coordinates></Point></Placemark>
+<Placemark><name>Vester Voldgade 98, Classenske Legatskole</name><description><![CDATA[Generalmajor J.F. Classen (1725–1792), legatstifter<br>Fire modstandsfolk dræbt under besættelsen 1940–1945]]></description><Point><coordinates>12.57574,55.67292</coordinates></Point></Placemark>
+<Placemark><name>Vestre Farimagsgade 31</name><description><![CDATA[Dansk Ingeniørforening: ni modstandsfolk dræbt 1940–1945]]></description><Point><coordinates>12.56239,55.67827</coordinates></Point></Placemark>
+<Placemark><name>Vestergade 10</name><description><![CDATA[Det ældste København, fiskerbyen Havn<br>Vestergade 10, baggården: Forretningsmanden Henry Lotinga (1858–1933)]]></description><Point><coordinates>12.57058,55.67793</coordinates></Point></Placemark>
+<Placemark><name>Vestergade 18C, baggården</name><description><![CDATA[H.C. Andersens første nat i København 1819]]></description><Point><coordinates>12.56939,55.67769</coordinates></Point></Placemark>
+<Placemark><name>Vestergade 22, porten</name><description><![CDATA[Bygningshistorie 1796–99, med Ørsted, Oehlenschläger og Baggesen]]></description><Point><coordinates>12.56928,55.67726</coordinates></Point></Placemark>
+<Placemark><name>Vestergade 28/30</name><description><![CDATA[Adam Oehlenschläger, boede her 1795–1805, skrev Guldhornene]]></description><Point><coordinates>12.56875,55.67696</coordinates></Point></Placemark>
+<Placemark><name>Vimmelskaftet 32</name><description><![CDATA[Boghandler G.E.C. Gad, grundsten 1897]]></description><Point><coordinates>12.57531,55.67871</coordinates></Point></Placemark>
+<Placemark><name>Vingårdstræde 21</name><description><![CDATA[Balletmester August Bournonville (1805–1879), barndomshjem]]></description><Point><coordinates>12.58259,55.6784</coordinates></Point></Placemark>
+<Placemark><name>Øster Voldgade 12</name><description><![CDATA[Jón Sigurðsson, boede her 1852–1879]]></description><Point><coordinates>12.58232,55.68922</coordinates></Point></Placemark>
+<Placemark><name>Øster Voldgade 15, Nyboder Skole</name><description><![CDATA[To modstandsfolk dræbt under besættelsen 1940–1945]]></description><Point><coordinates>12.58624,55.69057</coordinates></Point></Placemark>
+<Placemark><name>Østergade 23</name><description><![CDATA[Dagbladet Politiken grundlagt i ejendommen 1884<br><i>Placering omtrentlig</i>]]></description><Point><coordinates>12.58284,55.67966</coordinates></Point></Placemark>
+<Placemark><name>Åbenrå 32</name><description><![CDATA[Præsten Adolphe Monod, født 1802]]></description><Point><coordinates>12.5758,55.68348</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>Kongens Enghave</name>
+<Placemark><name>Borgbjergsvej 1</name><description><![CDATA[Statsminister Anker Jørgensen (1922–2016), boede her 1963–2008]]></description><Point><coordinates>12.53875,55.65243</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>Nørrebro</name>
+<Placemark><name>Blågårdsgade, Det Grønne P-hus</name><description><![CDATA[Antonio Currà, dræbt på stedet i august 2003<br><i>Placering omtrentlig</i>]]></description><Point><coordinates>12.5556,55.68436</coordinates></Point></Placemark>
+<Placemark><name>Fælledvej 4</name><description><![CDATA[Svenske soldater dræbt under Stormen på København 1659]]></description><Point><coordinates>12.55991,55.68845</coordinates></Point></Placemark>
+<Placemark><name>Korsgade 56</name><description><![CDATA[Matilde og Fredrik Bajer, boede her fra 1871]]></description><Point><coordinates>12.55426,55.6867</coordinates></Point></Placemark>
+<Placemark><name>Meinungsgade 17–19</name><description><![CDATA[A.W. Holm, formand for Smedemesterforeningen 1867–1904]]></description><Point><coordinates>12.55486,55.69279</coordinates></Point></Placemark>
+<Placemark><name>Nørrebrogade 151A</name><description><![CDATA[Maleren Henry Heerup (1907–1993), barndomshjem]]></description><Point><coordinates>12.54831,55.69416</coordinates></Point></Placemark>
+<Placemark><name>Prinsesse Charlottes Gade 12</name><description><![CDATA[Sønderjyllands genforening med Danmark 1920]]></description><Point><coordinates>12.5533,55.69302</coordinates></Point></Placemark>
+<Placemark><name>Ragnhildgade 1, Vej &amp; Parks plads</name><description><![CDATA[Poul Emil Mathiesen (1923–1945), faldt for Danmark]]></description><Point><coordinates>12.55422,55.70692</coordinates></Point></Placemark>
+<Placemark><name>Ravnsborggade 21</name><description><![CDATA[Louis Pio, arbejderbevægelsens grundlægger, anholdt 1872]]></description><Point><coordinates>12.5628,55.68944</coordinates></Point></Placemark>
+<Placemark><name>Sankt Hans Gade 25, tidl. Sankt Hans Gades Skole</name><description><![CDATA[Carl Kjærrumgaard Jørgensen (1909–1945) og Ove Øster (1917–1945)]]></description><Point><coordinates>12.56189,55.6903</coordinates></Point></Placemark>
+<Placemark><name>Sjællandsgade 10, Sjællandsgades Skole</name><description><![CDATA[Poul Emil Mathiesen (1923–1945), faldt for Danmarks frihed]]></description><Point><coordinates>12.55314,55.69318</coordinates></Point></Placemark>
+<Placemark><name>Åboulevard 16, Druknestenen</name><description><![CDATA[Marie Henriques og Lise Magnus, druknede 1812]]></description><Point><coordinates>12.55605,55.68365</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>Sundby</name>
+<Placemark><name>Højdevangens Skole (Grønløkkevej 1)</name><description><![CDATA[Preben Richard Christensen (1925–1945) og Ingolf Larsen-Ledet (1919–1944)<br><i>Placering omtrentlig</i>]]></description><Point><coordinates>12.60404,55.64648</coordinates></Point></Placemark>
+<Placemark><name>Wittenberggade 2, Sundpark Skole</name><description><![CDATA[Bjarne Louis Hansen (1924–1945) og Carl Borch Sørensen (1925–1945)]]></description><Point><coordinates>12.61557,55.66188</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>Valby</name>
+<Placemark><name>Hanstedvej, Brandstationen</name><description><![CDATA[Modstandsmanden Bruno E.A.V. Christensen (1920–1945), dræbt på stedet<br><i>Placering omtrentlig</i>]]></description><Point><coordinates>12.48387,55.66536</coordinates></Point></Placemark>
+<Placemark><name>Rughavevej 6, Valby Skole</name><description><![CDATA[Modstandsmanden Poul Emil Rosenstand Jacobsen (1924–1945)]]></description><Point><coordinates>12.5152,55.66498</coordinates></Point></Placemark>
+<Placemark><name>Toftegårds Allé 8</name><description><![CDATA[Modstandsmanden Anker Herman Knudsen (1914–1945), dræbt på adressen]]></description><Point><coordinates>12.51689,55.66587</coordinates></Point></Placemark>
+<Placemark><name>Vigerslev Allé 1D</name><description><![CDATA[Modstandsmanden Poul Møllgaard (1922–1945)]]></description><Point><coordinates>12.53808,55.66228</coordinates></Point></Placemark>
+<Placemark><name>Vigerslev Allé 108–110, Vigerslev Allés Skole</name><description><![CDATA[Svend Borup Jensen, Otto From-Petersen og Frank Henrik Herkild, faldet i frihedskampen]]></description><Point><coordinates>12.50809,55.66145</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>Vanløse</name>
+<Placemark><name>Vinkelager 2</name><description><![CDATA[Modstandsmanden Poul Herman Johannes Johannesen (1910–1942)]]></description><Point><coordinates>12.485,55.68025</coordinates></Point></Placemark>
+<Placemark><name>Ålekistevej 121, Vanløse Skole</name><description><![CDATA[Fem modstandsfolk faldet under besættelsen 1940–1945]]></description><Point><coordinates>12.48161,55.68647</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>Vestamager</name>
+<Placemark><name>Amager Boulevard</name><description><![CDATA[Modstandsmanden Carl Julius Valdemar Berg (1893–1945)<br><i>Placering omtrentlig</i>]]></description><Point><coordinates>12.5886,55.66757</coordinates></Point></Placemark>
+<Placemark><name>Artillerivej 58</name><description><![CDATA[Hartvig Hansen, skudt af tyskerne 29.8.1943]]></description><Point><coordinates>12.58232,55.66358</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>Vesterbro</name>
+<Placemark><name>Enghavevej 4, Tove Ditlevsens Mindehave</name><description><![CDATA[Forfatteren Tove Ditlevsen (1917–1976)]]></description><Point><coordinates>12.54582,55.67113</coordinates></Point></Placemark>
+<Placemark><name>Enghavevej 40, Vega (tidl. Folkets Hus)</name><description><![CDATA[Sveriges statsminister Olof Palme (1927–1986)]]></description><Point><coordinates>12.54425,55.668</coordinates></Point></Placemark>
+<Placemark><name>Eskildsgade, hjørnet af Istedgade</name><description><![CDATA[Gårdmissionær Vilhelm Wright og det første gårdmøde 1881<br><i>Placering omtrentlig</i>]]></description><Point><coordinates>12.55536,55.67089</coordinates></Point></Placemark>
+<Placemark><name>Gamle Carlsberg Vej, Laboratoriebygningen</name><description><![CDATA[Kemikeren S.P.L. Sørensen (1868–1939)<br><i>Placering omtrentlig</i>]]></description><Point><coordinates>12.52928,55.6654</coordinates></Point></Placemark>
+<Placemark><name>Gammel Kongevej 9</name><description><![CDATA[Stumfilmstjernen Asta Nielsen (1881–1972)]]></description><Point><coordinates>12.55867,55.67414</coordinates></Point></Placemark>
+<Placemark><name>Gammel Kongevej 25, baggården</name><description><![CDATA[Modstandsmanden Ingolf Larsen-Ledet (1919–1944)]]></description><Point><coordinates>12.55584,55.67363</coordinates></Point></Placemark>
+<Placemark><name>Gasværksvej 22, Gasværksvejens Skole</name><description><![CDATA[Modstandsmanden Axel Carl Sophus Jacobsen (1916–1945)]]></description><Point><coordinates>12.55755,55.67014</coordinates></Point></Placemark>
+<Placemark><name>Hedebygade 30A, i porten</name><description><![CDATA[Forfatteren Tove Ditlevsen, født 1917]]></description><Point><coordinates>12.5442,55.66857</coordinates></Point></Placemark>
+<Placemark><name>Istedgade 116</name><description><![CDATA[21 vesterbroere dræbt under folkestrejken 1944]]></description><Point><coordinates>12.55074,55.66869</coordinates></Point></Placemark>
+<Placemark><name>Istedgade 119</name><description><![CDATA[Opfinderen og flypioneren J.C.H. Ellehammer (1871–1946)]]></description><Point><coordinates>12.54821,55.66754</coordinates></Point></Placemark>
+<Placemark><name>Matthæusgade 33, Matthæusgades Skole</name><description><![CDATA[Erik Andreassen og Keld Jeppesen, dræbt 1945]]></description><Point><coordinates>12.54688,55.66954</coordinates></Point></Placemark>
+<Placemark><name>Ny Carlsberg Vej 35, Ny Carlsbergvejens Skole</name><description><![CDATA[Ernst Jensen og Gunnar Nielsen, dræbt 1944]]></description><Point><coordinates>12.54084,55.66603</coordinates></Point></Placemark>
+<Placemark><name>Ny Carlsberg Vej, Carlsbergmuseet</name><description><![CDATA[Studenterforeningens hus under besættelsen 1944–1945<br><i>Placering omtrentlig</i>]]></description><Point><coordinates>12.54574,55.66566</coordinates></Point></Placemark>
+<Placemark><name>Pasteursvej 7</name><description><![CDATA[Chr. Andersen og Villy Petersen, faldt 1945]]></description><Point><coordinates>12.53327,55.66587</coordinates></Point></Placemark>
+<Placemark><name>Svendsgade, Politistationen</name><description><![CDATA[Fire politifolk dræbt under besættelsen 1940–1945<br><i>Placering omtrentlig</i>]]></description><Point><coordinates>12.55429,55.67168</coordinates></Point></Placemark>
+<Placemark><name>Sønder Boulevard 106</name><description><![CDATA[Elleve omkomne ved bombardementet af Shellhuset 1945]]></description><Point><coordinates>12.54359,55.66418</coordinates></Point></Placemark>
+<Placemark><name>Tøndergade 24</name><description><![CDATA[Gadenavnet og genforeningen med Sønderjylland 1920]]></description><Point><coordinates>12.54181,55.66987</coordinates></Point></Placemark>
+<Placemark><name>Valdemarsgade 21</name><description><![CDATA[Kong Christian IX og Dronning Louises Jubilæumsasyl 1894]]></description><Point><coordinates>12.54888,55.67037</coordinates></Point></Placemark>
+<Placemark><name>Vesterbro Torv 55A</name><description><![CDATA[Modstandsmanden Erik Koch Michelsen, død 1945]]></description><Point><coordinates>12.55462,55.67212</coordinates></Point></Placemark>
+<Placemark><name>Vesterbrogade 72, baggården</name><description><![CDATA[Værtshuset Lille Fortun]]></description><Point><coordinates>12.55166,55.67282</coordinates></Point></Placemark>
+<Placemark><name>Vesterbrogade 75</name><description><![CDATA[Digteren Adam Oehlenschläger, født 1779]]></description><Point><coordinates>12.5499,55.67249</coordinates></Point></Placemark>
+<Placemark><name>Vesterbrogade 106B</name><description><![CDATA[Gæstgiveriet Den Gule Hest og tobaksfabrikken Haabet, 1778]]></description><Point><coordinates>12.54575,55.67173</coordinates></Point></Placemark>
+<Placemark><name>Vesterbrogade 110</name><description><![CDATA[Digteren Bjørnstjerne Bjørnson, boede her 1867–1868]]></description><Point><coordinates>12.54494,55.67153</coordinates></Point></Placemark>
+<Placemark><name>Vesterbrogade 112, baghuset</name><description><![CDATA[Vladimir Lenin, boede her under kongressen 1910]]></description><Point><coordinates>12.5447,55.67147</coordinates></Point></Placemark>
+<Placemark><name>Vesterbrogade 144</name><description><![CDATA[Bryggeren Hans Jørgen Tvede (1815–1878)]]></description><Point><coordinates>12.54062,55.67056</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>Østerbro</name>
+<Placemark><name>Australiensvej 31</name><description><![CDATA[Kaptajn Claus Børnsen (f. 1803), grundlægger af Københavns Skipperforening]]></description><Point><coordinates>12.56583,55.70883</coordinates></Point></Placemark>
+<Placemark><name>Bellmansgade 3, Bryggervangens Skole</name><description><![CDATA[Fem dræbte under besættelsen 1940–1945]]></description><Point><coordinates>12.56887,55.71531</coordinates></Point></Placemark>
+<Placemark><name>Bellmansgade 5, Vognmandsmarkens Skole</name><description><![CDATA[Fem dræbte under besættelsen 1940–1945]]></description><Point><coordinates>12.56973,55.71588</coordinates></Point></Placemark>
+<Placemark><name>Billedvej 8, Frihavnen</name><description><![CDATA[Modstandsmanden Julius Christian Møller, dræbt 5.5.1945]]></description><Point><coordinates>12.59402,55.70746</coordinates></Point></Placemark>
+<Placemark><name>Blegdamsvej 23, Frimurerlogen</name><description><![CDATA[Modstandsmanden Peter Schjørring Thyssen (1896–1945)<br>Chauffør Harald Peder Kristensen, faldt 19.6.1944]]></description><Point><coordinates>12.57304,55.6976</coordinates></Point></Placemark>
+<Placemark><name>Classensgade 40</name><description><![CDATA[Entertaineren Victor Borge (1909–2000), voksede op i ejendommen]]></description><Point><coordinates>12.58488,55.69732</coordinates></Point></Placemark>
+<Placemark><name>Gammel Kalkbrænderi Vej 16</name><description><![CDATA[Landstedet Rolighed, hvor H.C. Andersen døde 1875]]></description><Point><coordinates>12.58452,55.7039</coordinates></Point></Placemark>
+<Placemark><name>Gunnar Nu Hansens Plads, tidl. Østerbrogades Kaserne</name><description><![CDATA[Tre dræbte fra Luftværnsregimentet 1940–1945<br><i>Placering omtrentlig</i>]]></description><Point><coordinates>12.57482,55.70488</coordinates></Point></Placemark>
+<Placemark><name>Holsteinsgade 9</name><description><![CDATA[Livjægernes udfald i Classens Have 26.–31.8.1807]]></description><Point><coordinates>12.58269,55.6988</coordinates></Point></Placemark>
+<Placemark><name>Holsteinsgade 41, Langelinieskolen</name><description><![CDATA[Fem dræbte under besættelsen 1940–1945]]></description><Point><coordinates>12.58674,55.6996</coordinates></Point></Placemark>
+<Placemark><name>Jagtvej 163, Københavns Maskinskole</name><description><![CDATA[Modstandsmanden Niels Christian Simonsen (1923–1945)]]></description><Point><coordinates>12.56044,55.70495</coordinates></Point></Placemark>
+<Placemark><name>Kastelsvej 58, Langelinieskolen (tidl. døveskole)</name><description><![CDATA[Døvepædagog og forstander Asger Holm (1900–1989)]]></description><Point><coordinates>12.58704,55.69618</coordinates></Point></Placemark>
+<Placemark><name>Kristianiagade 12, Domus Medica</name><description><![CDATA[Modstandsmanden Robert W.L.W. Vigholt (1899–1944)]]></description><Point><coordinates>12.58787,55.69448</coordinates></Point></Placemark>
+<Placemark><name>Kristianiagade 10, Hagemanns Kollegium</name><description><![CDATA[Frits Møller og Jørgen Nygaard, dræbt 1944–1945]]></description><Point><coordinates>12.5872,55.69437</coordinates></Point></Placemark>
+<Placemark><name>Langelinie, nær "Isbjørnen"</name><description><![CDATA[Hospitalsskibet Jutlandia, Koreakrigen 1951–1953<br><i>Placering omtrentlig</i>]]></description><Point><coordinates>12.60028,55.70028</coordinates></Point></Placemark>
+<Placemark><name>Lersø Parkallé 28, Gammel Klosters Grønnegård</name><description><![CDATA[Borgmester Ernst Kaper (1874–1940)]]></description><Point><coordinates>12.55763,55.70563</coordinates></Point></Placemark>
+<Placemark><name>Ribegade 11–13</name><description><![CDATA[Glas- og porcelænshandler S.G. Kjersgaard (1859–1935)]]></description><Point><coordinates>12.57982,55.70307</coordinates></Point></Placemark>
+<Placemark><name>Ryesgade, hjørnet af Irmingersgade</name><description><![CDATA[Modstandsmanden Svend Erik A.R. Frederiksen (1927–1945)<br><i>Placering omtrentlig</i>]]></description><Point><coordinates>12.57317,55.69559</coordinates></Point></Placemark>
+<Placemark><name>Ryesgade 101, Ryesgades Skole</name><description><![CDATA[Modstandsmanden Hans Brahe Salling (1917–1945)]]></description><Point><coordinates>12.57419,55.69677</coordinates></Point></Placemark>
+<Placemark><name>Sionsgade 1, Strandvejsskolen</name><description><![CDATA[Henry Engelhardt (1918–1945) og Aage Strecker (1916–1944)]]></description><Point><coordinates>12.57921,55.71124</coordinates></Point></Placemark>
+<Placemark><name>Stockholmsgade 57, Den tyske ambassade</name><description><![CDATA[Diplomaten Georg Ferdinand Duckwitz, røbede jødeaktionen 1943]]></description><Point><coordinates>12.58334,55.69264</coordinates></Point></Placemark>
+<Placemark><name>Stockholmsgade 59, Østre Borgerdyd Skole</name><description><![CDATA[Robert August Christensen (1885–1945) og Kai Hannibal Hoff (1912–1943)]]></description><Point><coordinates>12.58404,55.69291</coordinates></Point></Placemark>
+<Placemark><name>Strandpromenaden, Københavns Roklub</name><description><![CDATA[Poul Erik Astrup (1917–1944) og Poul Henning Petersen (1922–1945)<br><i>Placering omtrentlig</i>]]></description><Point><coordinates>12.5836,55.71697</coordinates></Point></Placemark>
+<Placemark><name>Strandboulevarden 27</name><description><![CDATA[Georg Brandes, boede her fra 1910 til sin død 1927]]></description><Point><coordinates>12.58937,55.70027</coordinates></Point></Placemark>
+<Placemark><name>Strandvejen 123</name><description><![CDATA[N.F.S. Grundtvig (1783–1872), boede her ved sin død]]></description><Point><coordinates>12.57622,55.72574</coordinates></Point></Placemark>
+<Placemark><name>Strandvænget, Danske Studenters Roklub</name><description><![CDATA[Niels Hieronymus Haae (1924–1945) og Mogens Kornerup Prior (1911–1945)<br><i>Placering omtrentlig</i>]]></description><Point><coordinates>12.58426,55.71554</coordinates></Point></Placemark>
+<Placemark><name>Upsalagade 24</name><description><![CDATA[Den Ukrainske Folkerepubliks diplomatiske mission 1919–1922]]></description><Point><coordinates>12.58046,55.69223</coordinates></Point></Placemark>
+<Placemark><name>Universitetsparken 2, Danmarks Farmaceutiske Højskole</name><description><![CDATA[Tre dræbte under besættelsen 1940–1945]]></description><Point><coordinates>12.56139,55.7028</coordinates></Point></Placemark>
+<Placemark><name>Universitetsparken 4, Københavns Tandlægehøjskole</name><description><![CDATA[Svend Vinding Dorph (1914–1945), dræbt under besættelsen]]></description><Point><coordinates>12.55956,55.70317</coordinates></Point></Placemark>
+<Placemark><name>Universitetsparken 15, Zoologisk Museum</name><description><![CDATA[Thomas Bartholin (1616–1680), universitetets første naturhistoriske samling]]></description><Point><coordinates>12.55954,55.70256</coordinates></Point></Placemark>
+<Placemark><name>Ved Sporsløjfen 10, B.93's klubhus</name><description><![CDATA[Formand Johan Chr. Gandil (1865–1915)]]></description><Point><coordinates>12.58247,55.71343</coordinates></Point></Placemark>
+<Placemark><name>Willemoesgade 3</name><description><![CDATA[Danske frivillige i Finlands vinterkrig 1939–1940]]></description><Point><coordinates>12.58014,55.69737</coordinates></Point></Placemark>
+<Placemark><name>Voldmestergade 26</name><description><![CDATA[William S. Knudsen (1879–1948), født i ejendommen]]></description><Point><coordinates>12.57668,55.69375</coordinates></Point></Placemark>
+<Placemark><name>Vordingborggade 19</name><description><![CDATA[Kaptajn Christian Michael Rottbøll (1917–1942), dræbt i ejendommen]]></description><Point><coordinates>12.58102,55.70808</coordinates></Point></Placemark>
+<Placemark><name>Webersgade 17</name><description><![CDATA[Digteren Michael Strunge (1958–1986)]]></description><Point><coordinates>12.57269,55.69065</coordinates></Point></Placemark>
+<Placemark><name>Øster Allé 6</name><description><![CDATA[Modstandsmanden Hans Henrik Gottschalch (1922–1945), faldt 17.3.1945]]></description><Point><coordinates>12.57554,55.69999</coordinates></Point></Placemark>
+<Placemark><name>Øster Søgade 86–88, tidl. Øster Søgades Gymnasium</name><description><![CDATA[Seks modstandsfolk, faldt 1941–1945]]></description><Point><coordinates>12.57632,55.69417</coordinates></Point></Placemark>
+<Placemark><name>Østerbrogade 72</name><description><![CDATA[Styrmand Ejler Haubirk (1920–1944), dræbt her 20.10.1944]]></description><Point><coordinates>12.57822,55.69926</coordinates></Point></Placemark>
+</Folder></Document></kml>
